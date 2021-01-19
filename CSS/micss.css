@@ -1,7 +1,12 @@
 h1{
     color:red
 }
+
 p{
     color: slateblue;
     border: 1px solid;
+}
+div{
+    background-color: royalblue;
+
 }
